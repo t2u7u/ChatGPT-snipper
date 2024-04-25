@@ -1,1 +1,1 @@
-# ChatGPT-snipper
+# ChatGPT-sniffer
